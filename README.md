@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Maven plugin to export jasper files to PDF, HTML or XMl using MySQL as data source.
+Maven plugin to export jasper files to PDF, HTML or XML using MySQL as data source.
 
 Usage and configuration
 =======================
