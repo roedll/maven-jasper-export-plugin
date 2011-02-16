@@ -32,6 +32,7 @@ Include the plugin into your pom file
  </plugin>
 
 There are required properties:
+
  * jasperDirectory: Directory where jasper files are located
  * jrxmlDirectory: Directory where the source of jasper files are located
  * outputDirectory: Where the reports will be generated
@@ -41,4 +42,5 @@ There are required properties:
  * mysqlPassword: The MySQL password
         
 Non required properties:
+
  * exportFormat: valid values are PDF, HTML and XML. The default value is PDF.
